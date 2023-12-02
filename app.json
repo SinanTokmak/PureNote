@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "47b4dca5-cc6f-4529-b486-0afe0a67010e"
+      }
+    },
+    "owner": "sinan_tokmak"
   }
 }
